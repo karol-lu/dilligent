@@ -1,13 +1,13 @@
 import React from 'react'
 import styled from 'styled-components'
-import Header from '../modules/home/Header'
-import Inputs from '../modules/home/Inputs'
+import Header from '../components/Header'
+import TranslationForms from '../components/TranslationForms'
 
 const Home = () => {
   return (
     <Container>
       <Header />
-      <Inputs />
+      <TranslationForms />
     </Container>
   )
 }
