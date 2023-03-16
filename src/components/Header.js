@@ -14,6 +14,6 @@ export default Header
 const Container = styled.div`
 text-align: center;
   height: 120px;
-  margin: 20px auto;
+  padding-top: 20px;
   
 `
