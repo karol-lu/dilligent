@@ -4,7 +4,7 @@ import styled from 'styled-components'
 const Header = () => {
   return (
     <Container>
-      Work in progress. One day might be kinda sorta useful. Why, something actually useful might appear here. Right now this is a placeholder and space filler.
+      Header, work in progress. One day might be kinda sorta useful. Why, something actually useful might appear here. Right now this is a placeholder and space filler.
     </Container>
   )
 }

@@ -58,11 +58,6 @@ typings/
 .cache/
 public
 !public/index.html
-!public/favicon.ico
-!public/robots.txt
-!public/manifest.json
-!public/logo192.png
-!public/logo512.png
 
 # Mac files
 .DS_Store
